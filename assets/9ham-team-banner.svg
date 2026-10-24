@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">9ham-Team — A signal beyond the storm</title>
+  <desc id="desc">深蓝色的电台档案横幅，金色频谱、同心无线电波纹与复古仪表装饰，呈现重返未来：1999玩家和业余无线电爱好者的交汇。</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#09131f"/>
+      <stop offset=".6" stop-color="#142b36"/>
+      <stop offset="1" stop-color="#0a1621"/>
+    </linearGradient>
+    <linearGradient id="gold">
+      <stop stop-color="#f4d7a0"/>
+      <stop offset="1" stop-color="#a88a54"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9ec6c4" stroke-opacity=".055"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop stop-color="#65c6bd" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#65c6bd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="480" rx="16" fill="url(#background)"/>
+  <rect width="1280" height="480" rx="16" fill="url(#grid)"/>
+  <circle cx="1020" cy="220" r="290" fill="url(#glow)"/>
+  <rect x="22" y="22" width="1236" height="436" rx="8" fill="none" stroke="#d9b97d" stroke-opacity=".35"/>
+  <path d="M22 74V22H74M1206 22H1258V74M22 406V458H74M1206 458H1258V406" fill="none" stroke="#d9b97d" stroke-width="2"/>
+  <g font-family="'Courier New', monospace" font-size="12" letter-spacing="3" fill="#8aabae">
+    <text x="66" y="66">COMMUNITY ARCHIVE / 001</text>
+    <text x="1214" y="66" text-anchor="end">RECEPTION: OPEN</text>
+  </g>
+  <g transform="translate(1010 231)" fill="none">
+    <circle r="152" stroke="#d9b97d" stroke-opacity=".24"/>
+    <circle r="126" stroke="#7dbbb6" stroke-opacity=".16" stroke-dasharray="2 9"/>
+    <circle r="99" stroke="#d9b97d" stroke-opacity=".32"/>
+    <circle r="60" stroke="#7dbbb6" stroke-opacity=".23"/>
+    <path d="M-169 0H169M0-169V169" stroke="#7dbbb6" stroke-opacity=".18"/>
+    <path d="M-107-107A152 152 0 0 1 107-107M-70-70A99 99 0 0 1 70-70" stroke="#d9b97d" stroke-width="3"/>
+    <path d="M-40 66L0-66L40 66M-26 20H26M-34 47H34M0-66V66M-23-39A45 45 0 0 0-23 7M23-39A45 45 0 0 1 23 7" stroke="url(#gold)" stroke-width="2"/>
+    <circle cy="-66" r="5" fill="#f4d7a0" stroke="none"/>
+    <path d="M0 0L102-112" stroke="#77c9bd" stroke-opacity=".6"/>
+    <circle cx="102" cy="-112" r="4" fill="#77c9bd" stroke="none"/>
+  </g>
+  <text x="66" y="136" font-family="'Courier New', monospace" font-size="13" letter-spacing="5" fill="#83c4bc">REVERSE: 1999 × AMATEUR RADIO</text>
+  <text x="60" y="242" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-3" fill="url(#gold)">9ham-Team</text>
+  <path d="M66 274H730" stroke="#d9b97d" stroke-opacity=".35"/>
+  <text x="66" y="315" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#d7e4df">A signal beyond the storm.</text>
+  <text x="66" y="350" font-family="'Courier New', monospace" font-size="12" letter-spacing="2" fill="#8aabae">DIFFERENT TIMELINES. ONE FREQUENCY.</text>
+  <g stroke="#d9b97d" stroke-opacity=".55" fill="none">
+    <path d="M66 403H216L228 395L240 411L252 383L264 423L276 393L288 409L300 403H730"/>
+    <path d="M795 410H1214" stroke-opacity=".25"/>
+    <path d="M795 410V400M825 410V405M855 410V405M885 410V400M915 410V405M945 410V405M975 410V400M1005 410V405M1035 410V405M1065 410V400M1095 410V405M1125 410V405M1155 410V400M1185 410V405M1214 410V400"/>
+  </g>
+  <g font-family="'Courier New', monospace" font-size="10" letter-spacing="2" fill="#8aabae">
+    <text x="795" y="437">TUNE IN</text>
+    <text x="1214" y="437" text-anchor="end">STAY CURIOUS / 73</text>
+  </g>
+</svg>
